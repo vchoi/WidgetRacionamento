@@ -1,6 +1,6 @@
 # RacionamentoWidget
 Proof of concept Android Widget to display water rationing schedules for the
-2017/2018 drought in Brasilia, DF, Brasil. This software is one of the 
+2017/2018 drought in Brasilia, DF, Brazil. This software is one of the 
 requirements for the conclusion of a course on mobile app development.
 
 The app uses location services to determine the geographical area subject to
